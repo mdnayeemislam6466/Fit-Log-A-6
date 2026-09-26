@@ -73,19 +73,19 @@ fitlog/
   <tr> 
     <td align="center" valign="top"> 
       <b>Home Page</b><br><br>
-      <img src="Screenshot-1.png" width="220">
+      <img src="./public/Screenshot-1.png" width="220">
     </td> 
     <td align="center" valign="top"> 
       <b>Workout Details Section</b><br><br>
-      <img src="/Screenshot-3.png" width="220">
+      <img src="./public/Screenshot-3.png" width="220">
     </td> 
     <td align="center" valign="top"> 
       <b>My Plan Section</b><br><br>
-      <img src="/Screenshot-4.png" width="220">
+      <img src="./public/Screenshot-4.png" width="220">
     </td> 
     <td align="center" valign="top"> 
       <b>Saved Workouts Section</b><br><br>
-      <img src="/Screenshot-5.png" width="220">
+      <img src="./public/Screenshot-5.png" width="220">
     </td> 
   </tr> 
 </table>
