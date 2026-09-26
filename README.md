@@ -72,20 +72,20 @@ fitlog/
 <table> 
   <tr> 
     <td align="center" valign="top"> 
-      <b>Nav and Banner Section</b><br><br> 
-      <img src="src/assets/images/Screenshot-1.png" width="220"> 
+      <b>Home Page</b><br><br>
+      <img src="/Screenshot-1.png" width="220">
     </td> 
     <td align="center" valign="top"> 
-      <b>Technologies Card Section</b><br><br> 
-      <img src="src/assets/images/Screenshot-2.png" width="220"> 
+      <b>Workout Details Section</b><br><br>
+      <img src="/Screenshot-3.png" width="220">
     </td> 
     <td align="center" valign="top"> 
-      <b>Stack Sidebar Card</b><br><br> 
-      <img src="src/assets/images/Screenshot-3.png" width="220"> 
+      <b>My Plan Section</b><br><br>
+      <img src="/Screenshot-4.png" width="220">
     </td> 
     <td align="center" valign="top"> 
-      <b>Footer Section</b><br><br> 
-      <img src="src/assets/images/Screenshot-4.png" width="220"> 
+      <b>Saved Workouts Section</b><br><br>
+      <img src="/Screenshot-5.png" width="220">
     </td> 
   </tr> 
 </table>
