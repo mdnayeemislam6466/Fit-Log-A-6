@@ -73,7 +73,7 @@ fitlog/
   <tr> 
     <td align="center" valign="top"> 
       <b>Home Page</b><br><br>
-      <img src="/Screenshot-1.png" width="220">
+      <img src="Screenshot-1.png" width="220">
     </td> 
     <td align="center" valign="top"> 
       <b>Workout Details Section</b><br><br>
@@ -119,7 +119,7 @@ For the assignment requirement, make at least 8 meaningful commits as you build,
   
 ## 🌐 Live Demo
 
-https://mdnayeemislam6466.github.io/Dev-Stack-Assignment-5/
+https://fit-log-a-6.vercel.app/
 
 ## 👨‍💻 Author
 <img src="https://github.com/mdnayeemislam6466.png" alt="Md Nayeem" width="80" height="80" align="left">
